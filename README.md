@@ -66,3 +66,9 @@ Don’t just hire me, know me first.
 ---
 
 ⭐ *Always exploring how AI can transform Customer Success*
+
+
+## 📊 GitHub Stats
+![Manikandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Customer+Success+Engineer;AI+Builder;Automation+Enthusiast)
