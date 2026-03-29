@@ -1,74 +1,96 @@
-# Manikandan
-Don’t just hire me, know me first.
+<h1 align="center">Hi 👋, I'm Manikandan</h1>
+<h3 align="center">Customer Success Engineer → AI & Data-Driven SaaS Specialist</h3>
 
-# Hi, I'm Manikandan 👋
-
- Customer Success Engineer | SaaS | AI Adoption | Data & Automation  
-
----
-
-## 💼 About Me
-- 💡 Customer Success professional with experience in SaaS, ERP & Warehouse Management
-- 📊 Strong in **SQL, Product Analytics, and Customer Insights**
-- 🤖 Building **AI-powered Customer Success solutions**
-- ⚙️ Passionate about **automation, observability, and scalable workflows**
+<p align="center">
+🚀 SaaS | 🤖 AI Agents | 📊 Product Analytics | ⚙️ Automation
+</p>
 
 ---
 
-## 🧠 What I Work On
-- Customer Success Strategy & Product Adoption
-- AI Agents for Customer Intelligence
-- Product Usage Analytics & Insights
-- Automation using Bash & Power Automate
-- Monitoring & Observability (Azure Application Insights)
+## 💡 About Me
+
+- 🎯 Customer Success Engineer working on **enterprise SaaS (ERP & WMS)**
+- 📊 Strong in **SQL, product usage analytics & customer insights**
+- 🤖 Building **AI-powered Customer Success systems**
+- ⚡ Automating workflows using **Bash & Power Automate**
+- ☁️ Experienced in **Azure Monitor & Application Insights**
 
 ---
 
-## Projects
+## 🔥 What Makes Me Different
+
+✔ I combine **Customer Success + Data + AI**  
+✔ I build **solutions, not just dashboards**  
+✔ I focus on **business outcomes (adoption, retention, expansion)**  
+
+---
+
+## 🚀 Featured Projects
 
 ### 🤖 Customer Success Intelligence Agent
-- Built an AI agent integrating Salesforce data, support cases, and customer insights
-- Generates summaries for QBRs and stakeholder meetings
-- Reduces manual CRM navigation
+> AI-powered system for account insights & QBR preparation  
 
-### 📊 Product Usage Intelligence Agent
-- Tracks license usage and feature adoption
-- Detects inactive users and underutilized modules
-- Provides actionable insights for CSM teams
+- Aggregates Salesforce data, support tickets & customer signals  
+- Generates **AI summaries for account health & risks**  
+- Reduces manual effort for Customer Success Managers  
 
 ---
 
-## 🛠 Tech Stack
+### 📊 Product Usage Intelligence Agent
+> Data-driven system to improve product adoption  
 
-**Languages & Data**
+- Tracks **license usage & feature adoption**  
+- Detects **inactive users & underutilized modules**  
+- Generates **actionable insights for proactive engagement**  
+
+---
+
+## 🧠 Skills & Tech
+
+**📊 Data & Analytics**
 - SQL (MySQL, SQL Server)
+- Product Usage Analytics
+- Power BI
 
-**AI & Automation**
+**🤖 AI & Automation**
 - Langflow
 - Prompt Engineering
-- Power Automate
+- AI Workflow Design
 
-**Cloud & Monitoring**
+**☁️ Cloud & Observability**
 - Azure Monitor
 - Azure Application Insights
 
-**Tools**
-- Salesforce
+**⚙️ Tools**
+- Salesforce CRM
 - Azure DevOps
-- Bash (Linux scripting)
+- Bash Scripting
+- Power Automate
+
+---
+
+## 📈 What I’m Building Next
+
+- AI-powered **Customer Health Scoring System**
+- Automated **Churn Prediction Models**
+- End-to-end **CSM Productivity AI Assistant**
 
 ---
 
 ## 📫 Connect with Me
-- 📧 Email: manikandanmk764@gmail.com
+
 - 💼 LinkedIn: https://www.linkedin.com/in/mani-kandan-venkatesh/
+- 📧 Email: manikandanmk764@gmail.com
 
 ---
 
-⭐ *Always exploring how AI can transform Customer Success*
-
-
 ## 📊 GitHub Stats
-![Manikandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Customer+Success+Engineer;AI+Builder;Automation+Enthusiast)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" />
+</p>
+
+---
+
+⭐ *"Building AI + Data solutions to transform Customer Success"*
